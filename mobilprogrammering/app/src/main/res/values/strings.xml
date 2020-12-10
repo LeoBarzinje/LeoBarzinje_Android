@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Destinity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnChat">Chat</string>
+    <string name="Settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="chat">chat</string>
+    <string name="settings">settings</string>
+    <string name="main">Main</string>
+    <string name="brukernavn">brukernavn</string>
+    <string name="knapp">knapp</string>
+    <string name="alder">Alder:</string>
+    <string name="bosted">Bosted:</string>
+    <string name="navn">navn</string>
+    <string name="vis_informasjon">Vis informasjon</string>
+    <string name="textview">TextView</string>
+    <string name="profil">Profil</string>
+    <string name="Profil">Profil</string>
+    <string name="bytt_profilbilde">Bytt profilbilde</string>
+    <string name="dagens_sp_rsm_l">Dagens spørsmål!</string>
+    <string name="a_eller_b">A eller B?</string>
+    <string name="mang">Chat</string>
+    <string name="Chat">Chat</string>
+    <string name="vis_info">Vis info</string>
+    <string name="text">"tekst "</string>
+</resources>

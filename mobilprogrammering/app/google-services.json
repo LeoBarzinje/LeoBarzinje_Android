@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259283645080",
+    "firebase_url": "https://destined-cb602.firebaseio.com",
+    "project_id": "destined-cb602",
+    "storage_bucket": "destined-cb602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259283645080:android:301c96fb7185b5424696ed",
+        "android_client_info": {
+          "package_name": "com.example.destinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259283645080-q2ip84j61pkit9s3hg612sl5ut8tmvgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.destinity",
+            "certificate_hash": "157b9ab6b93467a0037ee57824178b4d4254de81"
+          }
+        },
+        {
+          "client_id": "259283645080-45002rg8bf8bf7au72sktgumbi5l32r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWR_Rp_vJ63mUX-m2IXAue7OsEerZNxmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259283645080-45002rg8bf8bf7au72sktgumbi5l32r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
